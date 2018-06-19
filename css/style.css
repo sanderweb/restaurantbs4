@@ -1,8 +1,18 @@
+<<<<<<< HEAD
 body {
 padding-top: 5rem;    
 }
 
 .start-tamplate {
     padding: 3rem;
+=======
+/*Custom CSS*/
+body {
+    padding-top: 5rem;
+}
+
+starter-tamplate {
+    padding: 3rem 1.5rem;
+>>>>>>> 5a92906daccc6408c110b2e0baf85f708d0a61cf
     text-align: center;
 }
