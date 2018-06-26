@@ -33,5 +33,44 @@ padding-top: 5rem;
 .btn-info {
     background-color: #21ddfb;
     padding: 1rem 4rem;
+    border: 2px solid transparent;
+}
+
+.btn-info:hover {
+    background-color:transparent;
+    border: 2px solid #21ddfb;
+    color: #21ddfb;
+    box-shadow: 5px 5px 15px #444;
+}
+
+.btn-info:active {
+    background-color:transparent !important;
+    border: 3px solid #21ddfb !important;
+    color: #21ddfb !important;
+    box-shadow: 5px 5px 15px #444;
 }
 /*END BUTTONS*/
+
+
+
+/*ESPECIALS SECTION*/
+.specials {
+   background: #2b2b2b;
+    padding: 50px 20px;
+}
+
+.specials {
+    color: #fff;
+}
+/*END ESPECIALS SECTION*/
+
+
+
+
+
+
+
+
+
+
+
