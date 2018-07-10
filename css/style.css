@@ -4,12 +4,23 @@ img:not([alt]) {
     border: 5px dashed #ff0000;
 }
 body {
-padding-top: 5rem;    
+    position: relative;
+    padding-top: 5rem;    
 }
 
 .start-tamplate {
     padding: 3rem;
 }
+
+/*NAVBAR*/
+.bg-dark {
+    background-color: #21ddfb !important;
+}
+
+
+/*END NAVBAR*/
+
+
 /*CAROUSEL*/
 .carousel-caption {
     padding-bottom: 12%; 
@@ -31,6 +42,12 @@ padding-top: 5rem;
     width: 50px;
     height: 45px;
 }
+
+.nav-link:hover {
+    color: #fff !important;
+    border-bottom: 2xp solid #fff !important;
+} 
+
 
 
 /*BUTTONS*/
@@ -67,6 +84,13 @@ padding-top: 5rem;
     color: #fff;
 }
 /*END ESPECIALS SECTION*/
+
+/*TEAM*/
+#team {
+    padding: 50px 10px;
+    background: linear-gradient(#21ddfb, #19a4ba);
+}
+/*END TEAM*/
 
 
 
