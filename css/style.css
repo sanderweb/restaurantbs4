@@ -94,6 +94,18 @@ body {
 
 
 
+/*MENU*/
+#menu {
+    padding: 50px 10px;   
+}
+
+.card {
+    box-shadow: 2px 5px 20px #777;
+}
+/*END MENU*/
+
+
+
 
 
 
